@@ -12,6 +12,7 @@ public class ArrayListDemo2 {
 	     list.add(40);
 	     list.add(50);
 	     System.out.println(list);
+	     System.out.println("List number data is>>");
 
 	}
 
